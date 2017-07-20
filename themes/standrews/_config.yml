@@ -1,0 +1,29 @@
+# Header
+menu:
+  Home: /
+  About: /about
+  Impressum: /impressum
+
+# Favicon
+favicon_url:
+
+# Default Image for Posts
+default_cover_image: images/default.jpg
+
+# Google Analytics Tracking ID
+google_analytics: UA-71862489-1
+
+# Social Accounts
+email_url:
+twitter_url: https://twitter.com/shadowframe
+facebook_url: https://www.facebook.com/jan.weber.583671
+instagram_url: https://www.instagram.com/jan.weber123/
+linkedin_url: https://www.linkedin.com/in/jan-weber-0a333b97/
+dribbble_url:
+github_url: https://github.com/shadowframe/
+googleplus_url:
+behance_url: 
+fivehundredpx_url:
+
+# Disqus comments janweber-xyz
+disqus_shortname: 
