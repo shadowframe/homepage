@@ -210,3 +210,18 @@ input:focus, textarea:focus {
 footer {
 	border-top: 1px solid #eee;
 }
+
+/* Image-hacks
+—————————————————————————————————————————————————————————————————————— */
+@media (min-width: 992px) {
+	.image-left {
+		float: left;
+		margin: 0px 20px 20px 0px;
+		width: 34%
+	}
+	.image-right {
+		float: right;
+		margin: 0px 0px 20px 20px;
+		width: 34%
+	}
+}

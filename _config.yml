@@ -81,4 +81,3 @@ deploy:
   type: git
   repo: git@github.com:shadowframe/shadowframe.github.io.git
   branch: master
-
