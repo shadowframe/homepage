@@ -59,3 +59,6 @@ Meine ersten Gehversuche mit [Capture One](http://amzn.to/2x5Uy3I) mit einigen B
 
 ![Tierpark](/images/tierpark27.jpg)
 
+![Tierpark](/images/tierpark28.jpg)
+
+![Tierpark](/images/tierpark29.jpg)
